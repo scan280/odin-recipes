@@ -1,4 +1,8 @@
 .page-name {
- color:red;
+ color:white;
+ background-color: #820300;
+ font-family: Arial, Helvetica, sans-serif;
+ /*Used the fonts provided on https://www.w3schools.com/Css/css_font.asp
+ on the table */
 
 }

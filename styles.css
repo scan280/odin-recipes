@@ -2,6 +2,7 @@
  color:white;
  background-color: #820300;
  font-family: Arial, Helvetica, sans-serif;
+ font-size: 50px;
  /*Used the fonts provided on https://www.w3schools.com/Css/css_font.asp
  on the table.
  
@@ -13,3 +14,11 @@
 * {
     background-color: #FF9800;
 }
+a {
+    background-color: #5F8670;
+    color:white;
+    font-size: 25.82px;
+
+    /*we used the anchor element to style the name Greengrams*/
+}
+

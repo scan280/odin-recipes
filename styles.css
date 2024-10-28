@@ -3,6 +3,13 @@
  background-color: #820300;
  font-family: Arial, Helvetica, sans-serif;
  /*Used the fonts provided on https://www.w3schools.com/Css/css_font.asp
- on the table */
+ on the table.
+ 
+ Used the color pallette on
+ https://colorhunt.co/palette/5f8670ff9800b80000820300
+ */
 
+}
+* {
+    background-color: #FF9800;
 }
